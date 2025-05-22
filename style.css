@@ -170,7 +170,7 @@ footer {
     }
 
     form input, form text area {
-        
+        padding: 8px;
     }
 
 }
